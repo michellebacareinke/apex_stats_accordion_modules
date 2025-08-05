@@ -27,5 +27,4 @@ APEX stats modules with optional text collapsed
 
 
 # Construction Kit
-<a href="https://colab.research.google.com/github//michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Intro_to_Probability.ipynb">Accordion Module Construction Kit</a>
-
+<a href="https://colab.research.google.com/github//michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Module_Construction_Kit.ipynb">Accordion Module Construction Kit</a>

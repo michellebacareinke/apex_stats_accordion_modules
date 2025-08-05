@@ -7,7 +7,7 @@ APEX stats modules with optional text collapsed
 4. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Variability.ipynb">Variability</a>
 5. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Visualizing_Distributions.ipynb">Visualizing Distributions</a>  
 6. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_z_Scores.ipynb">z-Scores</a>
-7. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Intro_to_Probability.ipynb">Introduction to Probability</a> (first draft)
+7. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Intro_to_Probability.ipynb">Introduction to Probability</a> (first draft)
 8. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Area_Under_the_Normal_Curve.ipynb">Area Under the Normal Curve</a>
 9. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Sampling.ipynb">Sampling</a>
 10. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Sampling_Techniques.ipynb">Sampling Techniques</a> (beta)
@@ -20,10 +20,10 @@ APEX stats modules with optional text collapsed
 17. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Linear_Regression.ipynb">Linear Regression</a>
 18. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Independent_Samples_t_Test.ipynb">Independent Samples t-Test</a> (beta)
 19. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Paired_Samples_t_Test.ipynb">Paired Samples t-Test</a> (first draft)
-20. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/ANOVA.ipynb">Analysis of Variance (ANOVA)</a> (beta)
-21. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Bean_Machine.ipynb">Bean Machine</a> (beta)
-22. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Chi_Square.ipynb">Chi-square</a> (beta)
-23. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Two_Way_Chi_Square.ipynb">Chi-square Test for Independence (Two-Way)</a> (first draft)
+20. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_ANOVA.ipynb">Analysis of Variance (ANOVA)</a> (beta)
+22. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Bean_Machine.ipynb">Bean Machine</a> (beta)
+23. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Chi_Square.ipynb">Chi-square</a> (beta)
+24. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Two_Way_Chi_Square.ipynb">Chi-square Test for Independence (Two-Way)</a> (first draft)
 
 
 # Construction Kit

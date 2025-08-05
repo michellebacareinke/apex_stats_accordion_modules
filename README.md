@@ -1,8 +1,8 @@
 # apex_stats_accordion_modules
 APEX stats modules with optional text collapsed
 
-<a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_ANOVA.ipynb">Data and Measurement</a>
-<a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Frequency_Distributions.ipynb</a>
-<a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Central_Tendency.ipynb</a>
-<a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Variability.ipynb</a>
+1. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_ANOVA.ipynb">Data and Measurement</a>
+2. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Frequency_Distributions.ipynb">Frequency Distributions</a>
+3. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Central_Tendency.ipynb">Central Tendency</a>
+4. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Variability.ipynb">Variability</a>
 

@@ -2,9 +2,7 @@
 
 # APEX STATS Accordion Modules
 
-These are accordion-style APEX STATS modules. The content contained in each of these module versions is identical to that of the full modules, but with the recommended background reading and basic instruction text collapsed/expandable. If your students are new to Colab, we recommend starting with the [full modules](https://github.com/vectrlab/apex-stats-modules/tree/main#apex-stats-modules) and then switching to the accordion modules once they become more familiar with APEX STATS materials. 
-
-
+These are accordion-style APEX STATS modules. The content contained in each module is identical to the full modules, but the recommended background reading and basic instructional text are presented in a collapsed/expandable format. If your students are new to Colab, we recommend starting with the [full modules](https://github.com/vectrlab/apex-stats-modules/tree/main#apex-stats-modules), then switching to the accordion modules once they are more familiar with APEX STATS materials. 
 
 These prebuilt modules are ready for use or modification in your course. A module brings together one or more dataset examples with a series of code snippets. See the <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Instructor_Guide.ipynb">instructor guide</a> for more information.
 

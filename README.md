@@ -1,8 +1,8 @@
 <img src="https://github.com/vectrlab/apex-stats-modules/raw/main/images/APEX_logo.png" alt="APEX: Applied Programming Experiences Logo" style="height:10em;">
 
-# APEX Stats Accordion Modules
+# APEX STATS Accordion Modules
 
-These are accordion-style APEX Stats modules with optional text collapsed. The content contained in each of these module versions is identical to that of the full modules.
+These are accordion-style APEX STATS modules with optional text collapsed. The content contained in each of these module versions is identical to that of the full modules.
 
 These prebuilt modules are ready for use or modification in your course. A module brings together one or more dataset examples with a series of code snippets. See the <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Instructor_Guide.ipynb">instructor guide</a> for more information.
 

@@ -1,3 +1,5 @@
+<img src="https://github.com/vectrlab/apex-stats-modules/raw/main/images/APEX_logo.png" alt="APEX: Applied Programming Experiences Logo" style="height:10em;">
+
 # APEX Stats Accordion Modules
 
 These are accordion-style APEX Stats modules with optional text collapsed. The content contained in each of these module versions is identical to that of the full modules.

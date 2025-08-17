@@ -30,9 +30,9 @@ Start doing statistics in Python right now by exploring the completed modules:
 18. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Independent_Samples_t_Test.ipynb">Independent Samples t-Test</a> (beta)
 19. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Paired_Samples_t_Test.ipynb">Paired Samples t-Test</a> (first draft)
 20. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_ANOVA.ipynb">Analysis of Variance (ANOVA)</a> (beta)
-22. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Bean_Machine.ipynb">Bean Machine</a> (beta)
-23. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Chi_Square.ipynb">Chi-square</a> (beta)
-24. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Two_Way_Chi_Square.ipynb">Chi-square Test for Independence (Two-Way)</a> (first draft)
+21. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Bean_Machine.ipynb">Bean Machine</a> (beta)
+22. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Chi_Square.ipynb">Chi-square</a> (beta)
+23. <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Two_Way_Chi_Square.ipynb">Chi-square Test for Independence (Two-Way)</a> (first draft)
 
 ## About APEX STATS
 
@@ -51,4 +51,4 @@ To get started, check out the <a href="https://colab.research.google.com/github/
 - <a href="https://github.com/vectrlab/apex-stats-datasets/">Dataset Library</a>
 - <a href="https://github.com/vectrlab/apex-stats-snippets/">Code Snippet Library</a>
 - <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Module_Construction_Kit.ipynb">Module Construction Kit</a>
-- <a href="https://colab.research.google.com/github//michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Module_Construction_Kit.ipynb">Accordion Module Construction Kit</a>
+- <a href="https://colab.research.google.com/github/michellebacareinke/apex_stats_accordion_modules/blob/main/accord_Module_Construction_Kit.ipynb">Accordion Module Construction Kit</a>
